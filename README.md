@@ -1,3 +1,3 @@
 definingpi
 ==========
-Beginning a programme of research with the Raspberry Pi with Wysing Art Centre and the Crucible Network based at Cambridge Computer Laboratory.
+defining Pi: the prgramme starts at the Wysing Art Centre, in collaboration with the Crucible Network based at Cambridge Computer Laboratory.
